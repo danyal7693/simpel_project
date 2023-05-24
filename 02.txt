@@ -1,0 +1,6 @@
+git diff --helpe
+git diff 
+git log
+git log --oneline
+git log -p
+git log --stat

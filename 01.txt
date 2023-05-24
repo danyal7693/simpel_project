@@ -1,0 +1,7 @@
+git init            \generit ripastory\
+git status
+git add
+git rm --cached
+
+git commit  -m "maseg"
+git commit -a  -m "maseg"
