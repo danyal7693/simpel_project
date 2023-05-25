@@ -5,3 +5,6 @@ git rm --cached
 
 git commit  -m "maseg"
 git commit -a  -m "maseg"
+
+
+git rm --cached -r .       //del all of repasetory//
