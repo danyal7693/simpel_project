@@ -11,3 +11,7 @@ git rm --cached -r .       //del all of repasetory//
 
 
 git checkout -- .          //like "ctrl+Z"  in Before "git add ."//
+
+
+$ git reset --hard 30f788a07caba815cae7a77ddb1e2b9da0d1c9bd
+//go be step in commit//
