@@ -1,0 +1,10 @@
+$ git branch develop  //generit branch develop//
+
+$ git branch -a   //list branch//
+
+$ git checkout develop   //cheng on branchs//"suich"
+
+$ git branch -d develop  //del  branch//
+
+$ git checkout -b develop    //generit branch and suich//
+

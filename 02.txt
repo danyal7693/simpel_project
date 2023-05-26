@@ -6,4 +6,8 @@ git log -p
 git log --stat
 
 
+<<<<<<< HEAD
 sadfasfdasfasfasf ????////git deff
+=======
+????////git deff
+>>>>>>> develop
