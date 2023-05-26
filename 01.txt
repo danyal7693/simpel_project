@@ -8,3 +8,6 @@ git commit -a  -m "maseg"
 
 
 git rm --cached -r .       //del all of repasetory//
+
+
+git checkout -- .          //like "ctrl+Z"  in Before "git add ."//
