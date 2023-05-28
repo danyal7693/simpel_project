@@ -11,3 +11,7 @@ sadfasfdasfasfasf ????////git deff
 =======
 ????////git deff
 >>>>>>> develop
+
+
+
+git stash    //Temporary storage before commit on the branch//
