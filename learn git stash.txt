@@ -1,3 +1,11 @@
 own line in the 02.txt
 
 git stash  //Temporary storage before commit on the branch//
+
+git stash list
+
+git stash show -p
+
+git stash apply  stash@{1}
+
+git stash pop stash@{1}   //use on the branch and del in the stash//
