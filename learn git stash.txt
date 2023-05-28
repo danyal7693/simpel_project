@@ -1,0 +1,3 @@
+own line in the 02.txt
+
+git stash  //Temporary storage before commit on the branch//
